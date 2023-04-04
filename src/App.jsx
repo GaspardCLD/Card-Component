@@ -125,7 +125,7 @@ const Answers = [
 function App() {
   
     const [colors, setColors] = useState({commonColor: '#282828',
-    secondaryColor: '#3a3129'})
+    secondaryColor: '#c5915d'})
   
   const colorHandleClick= (el)=>{setColors({commonColor: el.commonColor, secondaryColor: el.secondaryColor})} ;
 

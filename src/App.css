@@ -1,0 +1,12 @@
+.sticky-nav-desktop {
+    list-style: none;
+    display : flex;
+    justify-content: space-around;
+    padding: 5px;
+    width: 60%;
+}
+
+.sticky-nav-desktop li img {
+    height: 60px;
+    width: 60px;
+  }

@@ -1,5 +1,19 @@
-# Card-Component
 
-Une interface pour vos futurs Quiz qui vous permet de changer de thèmes de couleurs aux clics sur les icônes.
+# Card Component
 
-Emploi de styled component pour permettre la transmission de paramètres de style.
+A stylized, adaptable, and reusable component that hosts the content of a Quiz. The color theme can be easily modified by pressing the corresponding icons. This component is heavily inspired by my Project-1 Pokestar, which was developed using HTML, CSS, and Javascript.
+
+
+## Authors
+
+- [Gaspard Caillaud](https://www.linkedin.com/in/gaspardcaillaud/)
+
+
+## Installation
+
+```bash
+  npm install react
+  npm install styled-components
+
+```
+    
